@@ -20,10 +20,3 @@ class TaskForm(ModelForm):
     class Meta:
         model = Task
         fields = ['summary', 'description',  'status',  'type']
-
-    def clean_summary(self):
-        summary = self.cleaned_data.get('summary')
-        if Task.objects.filter(summary=summary).exists():
-            raise ValidationError('Задача с таким названием существует')
-        return summary
-
