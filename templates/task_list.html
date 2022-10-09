@@ -8,26 +8,25 @@
 {% block content %}
 
 <h1>Список задач</h1>
-<div class="shadow-lg p-3 mb-5 bg-body rounded-3">
     {% for task in tasks %}
+<div class="shadow-lg p-3 mb-5 bg-body rounded-3">
+
     <h5>Заголовок:</h5>
-    <a href="{% url 'task_detail' task.pk %}">
-        <p>{{ task.summary }}</p>
-    </a>
+        <a href="{% url 'task_detail' task.pk %}">
+            <p>{{ task.summary }}</p>
+        </a>
 
-    <h5>Описание:</h5>
-    <p>{{ task.description }}</p>
+        <h5>Описание:</h5>
+        <p>{{ task.description }}</p>
 
-    <h5>Статус:</h5>
-    <p>{{task.status}}</p>
+        <h5>Статус:</h5>
+        <p>{{task.status}}</p>
 
-    <h5>Тип:</h5>
-    <p>{{task.type}}</p>
-    <a class="btn btn-secondary btn-lg" href="{% url 'task_update' task.pk  %}">Редактировать</a>
-    <a class="btn btn-secondary btn-lg" href="{% url 'task_delete' task.pk  %}">Удалить</a>
+        <h5>Тип:</h5>
+        <p>{{task.type}}</p>
+        <a class="btn btn-secondary btn-lg" href="{% url 'task_update' task.pk  %}">Редактировать</a>
+        <a class="btn btn-secondary btn-lg" href="{% url 'task_delete' task.pk  %}">Удалить</a>
 
-    <hr>
-
+</div>    
     {% endfor %}
-</div>
 {% endblock %}
