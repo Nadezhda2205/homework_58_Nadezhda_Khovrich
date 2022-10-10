@@ -130,6 +130,214 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2022-10-09T09:06:32.501Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "QQQQq",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2022-10-09T09:06:42.030Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "QQQQ",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2022-10-09T09:06:58.491Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "sfsffqfqf",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2022-10-09T09:07:27.629Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "xvxvxdg",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2022-10-09T12:19:37.612Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "FDFDF",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2022-10-09T12:19:47.095Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "q",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0438\\u043f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2022-10-09T13:02:22.169Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "xvxvxdg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\", \"\\u0422\\u0438\\u043f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2022-10-09T13:19:22.259Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "dwdwdwd",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2022-10-09T13:23:25.672Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "xvxvxdg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2022-10-09T13:33:17.561Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "xvxvxdg",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2022-10-09T13:33:48.162Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "bugtask",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2022-10-09T13:34:35.553Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Bugtask",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2022-10-09T14:29:45.626Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "привет",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2022-10-09T14:30:08.179Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Задача",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2022-10-09T15:42:53.177Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "New",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2022-10-09T15:43:56.791Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "ddd",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -594,15 +802,22 @@
   }
 },
 {
+  "model": "issue.type",
+  "pk": 4,
+  "fields": {
+    "name": "New"
+  }
+},
+{
   "model": "issue.task",
   "pk": 3,
   "fields": {
-    "summary": "sfsffqfqf",
-    "description": "dfvdfgff",
+    "summary": "sfsffqfq",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?",
     "status": 3,
     "type": 3,
     "created_at": "2022-10-06T15:04:39.555Z",
-    "updated_at": "2022-10-06T15:04:39.555Z"
+    "updated_at": "2022-10-09T16:01:43.950Z"
   }
 },
 {
@@ -610,47 +825,95 @@
   "pk": 4,
   "fields": {
     "summary": "xvxvxdg",
-    "description": "sdsdgsdg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?",
     "status": 2,
-    "type": 1,
+    "type": 2,
     "created_at": "2022-10-06T15:04:46.728Z",
-    "updated_at": "2022-10-06T15:04:46.728Z"
+    "updated_at": "2022-10-09T16:03:35.482Z"
   }
 },
 {
   "model": "issue.task",
   "pk": 5,
   "fields": {
-    "summary": "QQQQ",
-    "description": "qqqqq",
+    "summary": "QQQQa",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?\r\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?\r\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus adipisci ducimus odio minima corporis ratione nam alias reiciendis, quaerat, laboriosam aut commodi consequuntur! Reprehenderit veniam obcaecati et aliquid, ex aperiam?",
     "status": 1,
     "type": 1,
     "created_at": "2022-10-06T17:55:43.557Z",
-    "updated_at": "2022-10-06T17:55:43.557Z"
+    "updated_at": "2022-10-09T16:03:55.796Z"
   }
 },
 {
   "model": "issue.task",
-  "pk": 6,
+  "pk": 8,
   "fields": {
-    "summary": "q",
-    "description": "qqqqq",
+    "summary": "QQQQ",
+    "description": "sss",
+    "status": 3,
+    "type": 1,
+    "created_at": "2022-10-09T07:50:17.702Z",
+    "updated_at": "2022-10-09T09:06:42.028Z"
+  }
+},
+{
+  "model": "issue.task",
+  "pk": 9,
+  "fields": {
+    "summary": "QQQQq",
+    "description": "aaaa",
+    "status": 3,
+    "type": 3,
+    "created_at": "2022-10-09T07:52:20.754Z",
+    "updated_at": "2022-10-09T09:06:32.499Z"
+  }
+},
+{
+  "model": "issue.task",
+  "pk": 10,
+  "fields": {
+    "summary": "dwdwdwd",
+    "description": "ddddd",
     "status": 2,
     "type": 1,
-    "created_at": "2022-10-06T17:56:10.194Z",
-    "updated_at": "2022-10-06T17:56:10.194Z"
+    "created_at": "2022-10-09T13:19:22.236Z",
+    "updated_at": "2022-10-09T13:19:22.236Z"
   }
 },
 {
   "model": "issue.task",
-  "pk": 7,
+  "pk": 12,
   "fields": {
-    "summary": "FDFDF",
-    "description": "ccccvvvbbnn",
+    "summary": "Bugtask",
+    "description": "ssss",
+    "status": 2,
+    "type": 3,
+    "created_at": "2022-10-09T13:34:35.551Z",
+    "updated_at": "2022-10-09T13:34:35.551Z"
+  }
+},
+{
+  "model": "issue.task",
+  "pk": 13,
+  "fields": {
+    "summary": "привет",
+    "description": "привет",
     "status": 1,
-    "type": 1,
-    "created_at": "2022-10-07T03:40:02.057Z",
-    "updated_at": "2022-10-07T03:40:02.057Z"
+    "type": 2,
+    "created_at": "2022-10-09T14:29:45.625Z",
+    "updated_at": "2022-10-09T14:29:45.625Z"
+  }
+},
+{
+  "model": "issue.task",
+  "pk": 14,
+  "fields": {
+    "summary": "Задача",
+    "description": "Задача",
+    "status": 2,
+    "type": 3,
+    "created_at": "2022-10-09T14:30:08.178Z",
+    "updated_at": "2022-10-09T14:30:08.178Z"
   }
 }
 ]
